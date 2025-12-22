@@ -1,0 +1,15 @@
+l=[]
+l.append(8)
+l.append("hello")
+l.append(7.3)
+print(l)
+print(l[2])
+print(len(l))
+l.remove(7.3)
+print(l)
+l.pop(0)
+print(l)
+l.insert(0,10)
+print(l)
+l[0]=7
+print(l)

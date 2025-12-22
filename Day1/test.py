@@ -1,0 +1,6 @@
+a=input("What is Input?\n")
+print(a)
+b=float(a)
+print(a,b)
+print(type(a))
+print(type(b))
