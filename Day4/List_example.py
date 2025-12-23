@@ -5,6 +5,6 @@ for i in range(0,len(l),1):
         a.append(l[i])
         cnt=0
         for j in range(0,len(l),1):
-            if(l[j]==l[i]):
+            if(l[i]==l[j]):
                 cnt=cnt+1
         print(l[i],cnt)

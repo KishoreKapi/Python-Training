@@ -1,0 +1,9 @@
+Mode	Meaning
+r	Read
+w	Write (overwrite)
+a	Append
+x	Create new file
+r+	Read + write
+w+	Write + read
+a+	Append + read
+b	Binary mode
